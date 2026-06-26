@@ -130,3 +130,4 @@ it-service-desk/
 - **Backend**: Python, FastAPI, SQLAlchemy, MySQL, JWT Authentication
 - **Frontend**: React 18, Vite, React Query, Recharts, Axios
 - **UI**: Lucide React Icons, Google Fonts (Roboto)
+# ITServiceDesk
